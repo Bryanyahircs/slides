@@ -1,6 +1,5 @@
 ---
 layout: slide
-permalink: /presentation-1/
 title: Pizza as a Service 2.0
 description: Tarea 997 Modelos en la Nube
 theme: night
