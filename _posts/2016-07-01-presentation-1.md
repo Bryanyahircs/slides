@@ -11,7 +11,6 @@ slides:
       <p>Modelos de Servicio en la Nube</p>
       <br>
       <p><b>Por: Bryan Yahir Colorado Salazar</b></p>
-      <p><em>Procesamiento de datos en la nube</em></p>
       <p><em>Ingeniería en Datos e Inteligencia Organizacional</em></p>
 
   - title: ¿Qué es Pizza as a Service 2.0?
