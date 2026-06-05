@@ -9,6 +9,8 @@ slides:
      <p>Modelos de Servicio en la Nube</p>
      <br>
      <p><b>Por: Bryan Yahir Colorado Salazar</b></p>
+     <p><b>Matricula: 230300798</b></p>
+     <p><em>Materia: Procesamiento de datos en la nube</em></p>
      <p><em>Ingeniería en Datos e Inteligencia Organizacional</em></p>
    background: "#2c3e50"
      
